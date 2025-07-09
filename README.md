@@ -61,11 +61,6 @@ The dataset includes actual transaction records organized by year and vehicle at
 
 ---
 
-## 📷 Screenshot
-
-![Car Sales Dashboard Preview](ruta/del/dashboard.png)
-
----
 
 ## 📁 File
 
